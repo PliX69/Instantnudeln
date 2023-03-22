@@ -1,0 +1,746 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    height: 100%;
+  }
+  body {
+    height: 100%;
+    background: radial-gradient(white, rgb(236, 236, 236));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  nav {
+    width: 100%;
+    height: 85px;
+    background-color: white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.11);
+    font-family: Arial;
+    font-size: 60px;
+    padding-left: 10px;
+    margin-top: 10px;
+    text-decoration-style: none;
+  }
+  nav ul {
+    float: right;
+  }
+  nav ul li {
+    float: left;
+    list-style: none;
+    position: relative;
+  }
+  nav ul li a {
+    font-family: Arial;
+    color: #272727;
+    font-size: 24px;
+    text-decoration: none;
+    padding: 28px;
+    display: block;
+  }
+  nav ul li a:hover {
+    background-color: #ebebeb;
+  }
+  nav ul li ul {
+    display: none;
+    position: absolute;
+    background-color: darkkhaki;
+    padding: 7px;
+    border-radius: 0px 0px 12px 12px;
+  }
+  nav ul li:hover ul {
+    display: block;
+  }
+  nav ul li ul li a {
+    color: white;
+    padding: 16px 20px;
+    border-radius: 10px;
+  }
+  nav ul li ul li a:hover {
+    background-color: lightblue;
+  }
+  .home {
+    padding: 20px;
+    background-color: lightgrey;
+  }
+  .imghome {
+    height: 500px;
+    margin-left: 30px;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: bisque;
+    float: left;
+    margin-top: 20px;
+  }
+  .hometxt {
+    margin-left: 30px;
+  }
+  .logo {
+    height: 70px;
+  }
+  .Instantnudeln {
+    margin: 50px;
+    margin-left: 500px;
+    font-size: large;
+    background-color: antiquewhite;
+    padding: 30px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.11);
+  }
+  .end {
+    background-color: lightgrey;
+    padding: 300px;
+  }
+  .wald {
+    height: 400px;
+    float: right;
+    margin-right: 100px;
+    border-radius: 30px;
+    padding: 20px;
+    background-color: bisque;
+    margin-top: 120px;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    height: 100%;
+  }
+  body {
+    height: 100%;
+    background: radial-gradient(white, rgb(236, 236, 236));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  nav {
+    width: 100%;
+    height: 85px;
+    background-color: white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.11);
+    font-family: Arial;
+    font-size: 60px;
+    padding-left: 10px;
+    padding-top: 10px;
+    text-decoration-style: none;
+  }
+  nav ul {
+    float: right;
+  }
+  nav ul li {
+    float: left;
+    list-style: none;
+    position: relative;
+  }
+  nav ul li a {
+    font-family: Arial;
+    color: #272727;
+    font-size: 24px;
+    text-decoration: none;
+    padding: 28px;
+    display: block;
+  }
+  nav ul li a:hover {
+    background-color: #ebebeb;
+  }
+  nav ul li ul {
+    display: none;
+    position: absolute;
+    background-color: darkkhaki;
+    padding: 7px;
+    border-radius: 0px 0px 12px 12px;
+  }
+  nav ul li:hover ul {
+    display: block;
+  }
+  nav ul li ul li a {
+    color: white;
+    padding: 16px 20px;
+    border-radius: 10px;
+  }
+  nav ul li ul li a:hover {
+    background-color: #296b6b;
+  }
+  .home {
+    padding: 20px;
+    background-color: lightgrey;
+  }
+  .imghome {
+    height: 500px;
+    margin-left: 30px;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: bisque;
+  }
+  .hometxt {
+    margin-left: 30px;
+  }
+  .logo {
+    height: 70px;
+  }
+  .login {
+    margin-top: 100px;
+    font-size: larger;
+    background-color: lightgrey;
+    padding-left: 800px;
+    margin-right: 20px;
+  }
+  .username {
+    margin-left: 800px;
+    font-size: large;
+  }
+  .impr1 {
+    padding: 30px;
+    background-color: lightgrey;
+  }
+  .impr2 {
+    padding: 30px;
+    background-color: lightgrey;
+    margin-top: 20px;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    height: 100%;
+  }
+  body {
+    height: 100%;
+    background: radial-gradient(white, rgb(236, 236, 236));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  nav {
+    width: 100%;
+    height: 85px;
+    background-color: white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.11);
+    font-family: Arial;
+    font-size: 60px;
+    padding-left: 10px;
+    padding-top: 10px;
+    text-decoration-style: none;
+  }
+  nav ul {
+    float: right;
+  }
+  nav ul li {
+    float: left;
+    list-style: none;
+    position: relative;
+  }
+  nav ul li a {
+    font-family: Arial;
+    color: #272727;
+    font-size: 24px;
+    text-decoration: none;
+    padding: 28px;
+    display: block;
+  }
+  nav ul li a:hover {
+    background-color: #ebebeb;
+  }
+  nav ul li ul {
+    display: none;
+    position: absolute;
+    background-color: darkkhaki;
+    padding: 7px;
+    border-radius: 0px 0px 12px 12px;
+  }
+  nav ul li:hover ul {
+    display: block;
+  }
+  nav ul li ul li a {
+    color: white;
+    padding: 16px 20px;
+    border-radius: 10px;
+  }
+  nav ul li ul li a:hover {
+    background-color: #296b6b;
+  }
+  .home {
+    padding: 20px;
+    background-color: lightgrey;
+  }
+  .imghome {
+    height: 500px;
+    margin-left: 30px;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: bisque;
+  }
+  .hometxt {
+    margin-left: 30px;
+  }
+  .logo {
+    height: 70px;
+  }
+  .login {
+    margin-top: 100px;
+    font-size: larger;
+    background-color: lightgrey;
+    padding-left: 800px;
+    margin-right: 20px;
+  }
+  .username {
+    margin-left: 800px;
+    font-size: large;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    height: 100%;
+  }
+  body {
+    height: 100%;
+    background: radial-gradient(white, rgb(236, 236, 236));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  nav {
+    width: 100%;
+    height: 85px;
+    background-color: white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.11);
+    font-family: Arial;
+    font-size: 60px;
+    padding-left: 10px;
+    padding-top: 10px;
+    text-decoration-style: none;
+  }
+  nav ul {
+    float: right;
+  }
+  nav ul li {
+    float: left;
+    list-style: none;
+    position: relative;
+  }
+  nav ul li a {
+    font-family: Arial;
+    color: #272727;
+    font-size: 24px;
+    text-decoration: none;
+    padding: 28px;
+    display: block;
+  }
+  nav ul li a:hover {
+    background-color: #ebebeb;
+  }
+  nav ul li ul {
+    display: none;
+    position: absolute;
+    background-color: darkkhaki;
+    padding: 7px;
+    border-radius: 0px 0px 12px 12px;
+  }
+  nav ul li:hover ul {
+    display: block;
+  }
+  nav ul li ul li a {
+    color: white;
+    padding: 16px 20px;
+    border-radius: 10px;
+  }
+  nav ul li ul li a:hover {
+    background-color: #296b6b;
+  }
+  .aboutus {
+    margin: 20px;
+  }
+  .aboutustxt {
+    padding: 30px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    font-size: large;
+  }
+  .we1 {
+    height: 500px;
+    float: right;
+    border-radius: 20px;
+    margin-right: 250px;
+    margin-top: 100px;
+    background-color: lightgray;
+    padding: 10px;
+  }
+  .we2 {
+    height: 500px;
+    border-radius: 20px;
+    float: right;
+    margin-top: 100px;
+    background-color: lightgray;
+    padding: 10px;
+  }
+  .we3 {
+    height: 500px;
+    border-radius: 20px;
+    float: right;
+    margin-top: 100px;
+    background-color: lightgray;
+    padding: 10px;
+  }
+  .we4 {
+    height: 500px;
+    border-radius: 20px;
+    float: right;
+    margin-top: 100px;
+    background-color: lightgray;
+    padding: 10px;
+  }
+  .we5 {
+    height: 500px;
+    border-radius: 20px;
+    float: right;
+    margin-top: 100px;
+    background-color: lightgray;
+    padding: 10px;
+  }
+  .logo {
+    height: 70px;
+  }
+  .end {
+    background-color: lightgrey;
+    padding: 300px;
+    margin-top: 400px;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    height: 100%;
+  }
+  body {
+    height: 100%;
+    background: radial-gradient(white, rgb(236, 236, 236));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  nav {
+    width: 100%;
+    height: 85px;
+    background-color: white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.11);
+    font-family: Arial;
+    font-size: 60px;
+    padding-left: 10px;
+    margin-top: 10px;
+    text-decoration-style: none;
+  }
+  nav ul {
+    float: right;
+  }
+  nav ul li {
+    float: left;
+    list-style: none;
+    position: relative;
+  }
+  nav ul li a {
+    font-family: Arial;
+    color: #272727;
+    font-size: 24px;
+    text-decoration: none;
+    padding: 28px;
+    display: block;
+  }
+  nav ul li a:hover {
+    background-color: #ebebeb;
+  }
+  nav ul li ul {
+    display: none;
+    position: absolute;
+    background-color: darkkhaki;
+    padding: 7px;
+    border-radius: 0px 0px 12px 12px;
+  }
+  nav ul li:hover ul {
+    display: block;
+  }
+  nav ul li ul li a {
+    color: white;
+    padding: 16px 20px;
+    border-radius: 10px;
+  }
+  nav ul li ul li a:hover {
+    background-color: #296b6b;
+  }
+  .home {
+    padding: 20px;
+    background-color: lightgrey;
+  }
+  .imghome {
+    height: 500px;
+    margin-left: 30px;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: bisque;
+  }
+  .hometxt {
+    margin-left: 30px;
+  }
+  .logo {
+    height: 70px;
+  }
+  .Fabianimg {
+    height: 300px;
+    border-radius: 10px;
+    margin-right: 0px;
+    margin-top: 10px;
+    float: left;
+    margin-left: 10px;
+  }
+  .Fabiantxt {
+    margin-top: 30px;
+    margin-left: 400px;
+    background-color: antiquewhite;
+    margin-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-top: 10px;
+  }
+  .papst {
+    margin-right: 40px;
+    margin-left: 400px;
+    margin-bottom: 40px;
+    font-size: large;
+    background-color: antiquewhite;
+    padding: 20px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.11);
+  }
+  .gb {
+    margin-left: 800px;
+    margin-top: 500px;
+    margin-bottom: 50px;
+    background-color: bisque;
+    color: black;
+    border-color: bisque;
+    padding: 20px;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    height: 100%;
+  }
+  body {
+    height: 100%;
+    background: radial-gradient(white, rgb(236, 236, 236));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  nav {
+    width: 100%;
+    height: 85px;
+    background-color: white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.11);
+    font-family: Arial;
+    font-size: 60px;
+    padding-left: 10px;
+    margin-top: 10px;
+    text-decoration-style: none;
+  }
+  nav ul {
+    float: right;
+  }
+  nav ul li {
+    float: left;
+    list-style: none;
+    position: relative;
+  }
+  nav ul li a {
+    font-family: Arial;
+    color: #272727;
+    font-size: 24px;
+    text-decoration: none;
+    padding: 28px;
+    display: block;
+  }
+  nav ul li a:hover {
+    background-color: #ebebeb;
+  }
+  nav ul li ul {
+    display: none;
+    position: absolute;
+    background-color: darkkhaki;
+    padding: 7px;
+    border-radius: 0px 0px 12px 12px;
+  }
+  nav ul li:hover ul {
+    display: block;
+  }
+  nav ul li ul li a {
+    color: white;
+    padding: 16px 20px;
+    border-radius: 10px;
+  }
+  nav ul li ul li a:hover {
+    background-color: #296b6b;
+  }
+  .home {
+    padding: 20px;
+    background-color: lightgrey;
+  }
+  .imghome {
+    height: 500px;
+    margin-left: 30px;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: bisque;
+  }
+  .hometxt {
+    margin-left: 30px;
+  }
+  .logo {
+    height: 70px;
+  }
+  .Fabianimg {
+    height: 700px;
+    border-radius: 10px;
+    margin-right: 0px;
+    margin-top: 10px;
+    float: left;
+  }
+  .Fabiantxt {
+    margin-top: 30px;
+    margin-left: 400px;
+    color: black;
+    padding-bottom: 300px;
+    font-size:x-large;
+    margin-right: 100px;
+  }
+  .Lingustxt {
+    color: white;
+    margin-left: 380px;
+    padding-top: 30px;
+  }
+  .gb {
+    margin-left: 700px;
+    margin-top: 500px;
+    margin-bottom: 50px;
+    background-color: bisque;
+    color: black;
+    border-color: bisque;
+    padding: 20px;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    height: 100%;
+  }
+  body {
+    height: 100%;
+    background: radial-gradient(white, rgb(236, 236, 236));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  nav {
+    width: 100%;
+    height: 85px;
+    background-color: white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.11);
+    font-family: Arial;
+    font-size: 60px;
+    padding-left: 10px;
+    margin-top: 10px;
+    text-decoration-style: none;
+  }
+  nav ul {
+    float: right;
+  }
+  nav ul li {
+    float: left;
+    list-style: none;
+    position: relative;
+  }
+  nav ul li a {
+    font-family: Arial;
+    color: #272727;
+    font-size: 24px;
+    text-decoration: none;
+    padding: 28px;
+    display: block;
+  }
+  nav ul li a:hover {
+    background-color: #ebebeb;
+  }
+  nav ul li ul {
+    display: none;
+    position: absolute;
+    background-color: darkkhaki;
+    padding: 7px;
+    border-radius: 0px 0px 12px 12px;
+  }
+  nav ul li:hover ul {
+    display: block;
+  }
+  nav ul li ul li a {
+    color: white;
+    padding: 16px 20px;
+    border-radius: 10px;
+  }
+  nav ul li ul li a:hover {
+    background-color: #296b6b;
+  }
+  .home {
+    padding: 20px;
+    background-color: lightgrey;
+  }
+  .imghome {
+    height: 500px;
+    margin-left: 30px;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: bisque;
+  }
+  .hometxt {
+    margin-left: 30px;
+  }
+  .logo {
+    height: 70px;
+  }
+  .Fabianimg {
+    height: 700px;
+    border-radius: 10px;
+    margin-right: 0px;
+    margin-top: 10px;
+    float: left;
+  }
+  .Fabiantxt {
+    margin-top: 30px;
+    margin-left: 400px;
+    background-color: antiquewhite;
+    margin-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-top: 10px;
+  }
+  .papst {
+    margin-right: 40px;
+    margin-left: 400px;
+    margin-bottom: 40px;
+    font-size: large;
+    background-color: antiquewhite;
+    padding: 20px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.11);
+  }
+  .gb {
+    margin-left: 800px;
+    margin-top: 500px;
+    margin-bottom: 50px;
+    background-color: bisque;
+    color: black;
+    border-color: bisque;
+    padding: 20px;
+  }
